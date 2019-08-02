@@ -1,6 +1,6 @@
-# School site No. 124, Kiev, Ukraine
+# Website of school No. 124, Kiev, Ukraine
 
-## About project:
+## About the project:
 
 Altruistic project to create the first cms website.
 
@@ -19,4 +19,5 @@ Designed with [radonichn](https://github.com/radonichn) in 2017.
 ## Contacts:
 
 Site: <http://www.sch124.kiev.ua/>
+
 E-mail: <sch124@ukr.net>
