@@ -2,7 +2,7 @@
 
 ## About the project:
 
-Altruistic project to create the first cms website.
+Altruistic project to create the first own cms website.
 
 Designed with [radonichn](https://github.com/radonichn) in 2017.
 
