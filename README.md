@@ -3,9 +3,10 @@
 ## About project:
 
 Altruistic project to create the first cms website.
-Designed with [radonichn](https://github.com/radonichn) in 2017.
-Currently not supported.
 
+Designed with [radonichn](https://github.com/radonichn) in 2017.
+
+**Currently not supported.**
 
 ## Technology stack:
 
@@ -14,7 +15,6 @@ Currently not supported.
 - JavaScript
 - PHP
 - WordPress (with plugins)
-
 
 ## Contacts:
 
